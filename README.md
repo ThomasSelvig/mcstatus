@@ -2,7 +2,7 @@
 ![current version](https://img.shields.io/pypi/v/mcstatus.svg)
 ![supported python versions](https://img.shields.io/pypi/pyversions/mcstatus.svg)
 
-mcstatus
+mcstatus (Asyncio)
 ========
 
 `mcstatus` provides an easy way to query Minecraft servers for any information they can expose.
